@@ -1,0 +1,6 @@
+ipython[notebook]
+pandas
+scikit-learn
+matplotlib
+glob
+textblob
