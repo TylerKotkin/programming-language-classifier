@@ -2,6 +2,9 @@
 
 This program is designed to take a snippet of code and identify the programming language used.
 
+Two ipython notebooks are contained in the repository:
+* programming_language_classifier.ipynb used a MultinomialNB classifier.
+* custom_programming_language_classifier.ipynb uses a custom classifier.
 
 ### <div align="center">Compatible Languages </div>
 * C (.gcc, .c)
